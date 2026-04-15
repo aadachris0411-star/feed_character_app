@@ -16,10 +16,8 @@ A fun and interactive Flutter game for toddlers to learn healthy eating habits!
 
 ## 📱 Screenshots
 
-- Refer Images
-
-Hungry_Game_No No.jpeg
-Hungry_Game_Feed Me.jpeg
-Hungry_Game_Yummy.jpeg
+![Home Screen](screenshots/Hungry_Game_Feed Me.jpeg)
+![Healthy Foods](screenshots/Hungry_Game_Yummy.jpeg)
+![Junk foods](screenshots/Hungry_Game_No No.jpeg)
 
 ---
