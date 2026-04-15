@@ -1,17 +1,25 @@
-# feed_character_app
 
-A new Flutter project.
+# Ma... Oliver Hungryyy 😋
 
-## Getting Started
+A fun and interactive Flutter game for toddlers to learn healthy eating habits!
 
-This project is a starting point for a Flutter application.
+## 🎯 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🍎 Feed healthy foods (Apple, Banana, Broccoli)
+- 🍰 Avoid junk foods (Cake, Candy, Juice)
+- 😄 Character reactions (Happy / Sad)
+- 🔊 Sound effects for feedback
+- 🎮 Drag and drop gameplay
+- 🧸 Kid-friendly UI design
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screenshots
+
+- Refer Images
+
+Hungry_Game_No No.jpeg
+Hungry_Game_Feed Me.jpeg
+Hungry_Game_Yummy.jpeg
+
+---
